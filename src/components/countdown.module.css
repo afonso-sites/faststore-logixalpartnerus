@@ -1,0 +1,24 @@
+.title {
+    font-size: 28px;
+    color: #171a1c;
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 100%;
+    background-color: #cacaca;
+  }
+  
+  .containerContent {
+    margin: 0 auto;
+    width: 1280px;
+    padding: 15px 32px;
+  }
+  
+  .text {
+    color: #171a1c;
+    font-size: 16px;
+  }
+  
